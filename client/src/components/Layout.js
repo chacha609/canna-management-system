@@ -44,7 +44,7 @@ const Layout = () => {
                 <span className="text-white font-bold text-sm">🌿</span>
               </div>
               <span className="ml-2 text-lg font-semibold text-gray-900">
-                Cannabis Manager
+                Divine Suite
               </span>
             </div>
             <button
